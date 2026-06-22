@@ -19,7 +19,7 @@ const projects = [
     description: `a responsive and interactive banking UI using HTML, CSS, and JavaScript- .
 Implemented features like user login, transaction history, fund transfers, loan requests, and account
 closure with dynamic DOM manipulation and state handling.`,
-    image: "/projects/project4.png",
+    image: "/projects/Bank-app.png",
     link: "",
     tags: ["HTML, CSS, JavaScript"],
     github:
@@ -29,7 +29,7 @@ closure with dynamic DOM manipulation and state handling.`,
     title: "Bank Web",
     description: `A responsive banking landing page featuring smooth scrolling, lazy loading, sticky navigation, 
     and interactive UI components to deliver an engaging user experience using modern JavaScript techniques.`,
-    image: "/projects/project4.png",
+    image: "/projects/Bank-web.png",
     link: "",
     tags: ["HTML, CSS, JavaScript"],
     github: "https://github.com/crestharpan/Advance-DOM-JavaScript-",
@@ -39,7 +39,7 @@ closure with dynamic DOM manipulation and state handling.`,
     description: `an interactive JavaScript game where users try to guess a randomly generated number within a 
     limited number of attempts. The project demonstrates core JavaScript concepts such as DOM manipulation,
      event handling, conditional logic, and dynamic UI updates to provide real-time feedback and score tracking.`,
-    image: "/projects/project4.png",
+    image: "/projects/Guess-the-number.png",
     link: "",
     tags: ["HTML, CSS, JavaScript"],
     github:
@@ -50,7 +50,7 @@ closure with dynamic DOM manipulation and state handling.`,
     description: `Built a two-player dice game using HTML, CSS, and JavaScript, featuring dynamic UI
 updates, turn-based logic, and state management. Applied event handling and DOM manipulation to
 create a responsive and engaging user experience`,
-    image: "/projects/project4.png",
+    image: "/projects/Lucky-10.png",
     link: "",
     tags: ["HTML, CSS, JavaScript"],
     github:

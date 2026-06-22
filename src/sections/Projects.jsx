@@ -11,7 +11,7 @@ const projects = [
     description: `Built a simple and dynamic product website using core Node.js (no frameworks).
 Implemented custom routing, server-side rendering, and file-based templating to display farm product
 data from a JSON API.`,
-    image: "/projects/project4.png",
+    image: "/projects/Nodefarm.png",
     link: "",
     tags: ["HTML", "CSS", "NodeJs", "JavaScript", "PUG"],
     github: "https://github.com/crestharpan/NodeJs/tree/main/nodeFarm",
@@ -22,7 +22,7 @@ data from a JSON API.`,
     description: `A full-stack tour booking website using Node.js, Express, 
     MongoDB, and Pug. Implemented features like user authentication, tour search, 
     map integration, booking system with ESEWA API, and MVC architecture for clean and scalable code structure.`,
-    image: "/projects/project4.png",
+    image: "/projects/Natours.png",
     link: "",
     tags: [
       "NodeJS",
@@ -41,7 +41,7 @@ data from a JSON API.`,
   {
     title: "Pizza-Menu",
     description: ``,
-    image: "/projects/project4.png",
+    image: "/projects/pizza.png",
     link: "",
     tags: ["React", "JavaScript", "HTML"],
     github:
@@ -52,7 +52,7 @@ data from a JSON API.`,
     description: `a travel packing checklist app using React, allowing users to add, mark, sort, and delete
 items. Utilized state management with hooks, conditional rendering, and component composition to
 create an interactive and efficient user experience.`,
-    image: "/projects/project4.png",
+    image: "/projects/Travel.png",
     link: "",
     tags: ["React", "JavaScript", "HTML", "Docker", "Github Actions", "Nginx"],
     github: "https://github.com/crestharpan/Travel-list-Dockerized",
